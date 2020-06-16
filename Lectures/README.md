@@ -6,7 +6,7 @@
 <li><a href="#course5">Physics of Rock Climbing</a></li>
 <li><a href="#course6">The Coming Years</a></li>
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
-<li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
+<li><a href="#course8">The Mathematics in Toys and Games</a></li>
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
 <li><a href="#course10">Structural Mechanics </a></li>
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
@@ -304,5 +304,92 @@
 
 </br>
 
+<h2 id="course8">The Mathematics in Toys and Games</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">COURSE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Theory of impartial games</td>
+<td>
+<p>Course notes (<a href="MITES_268S10_Ses1_theory.pdf">PDF</a>)</p>
+<p>Slides (<a href="MITES_268S10_Ses1_slides.pdf">PDF</a>)</p>
+<p>Handouts (<a href="MITES_268S10_ses1_handout.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Surreal numbers</td>
+<td>
+<p>Course notes (<a href="MITES_268S10_Ses2_surreal.pdf">PDF</a>)</p>
+<p>Slides (<a href="MITES_268S10_ses2_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Dynamic programming with impartial games</td>
+<td>Course notes (<a href="MITES_268S10_Ses3_dynamic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>AI and game search</td>
+<td>
+<p>Course notes (<a href="MITES_268S10_Ses4_AI.pdf">PDF</a>)</p>
+<p>Slides (<a href="MITES_268S10_ses4_slides2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Connect Four and additional AI topics</td>
+<td>
+<p>Course notes (<a href="MITES_268S10_Ses5_ConFour.pdf">PDF</a>)</p>
+<p>Slides (<a href="MITES_268S10_ses5_slides.pdf">PDF</a>)</p>
+<p>Reading: Allis, Victor. "A Knowledge-Based Approach of Connect-Four: The Game is Solved: White Wins."&nbsp;<em>Department of Mathematics and Computer Science</em>. Vrije Universiteit, Amsterdam, The Netherlands. Master's Thesis, October 1998. (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.informatik.uni-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Rubik's Cube and group theory</td>
+<td>
+<p>Course notes (<a href="MITES_268S10_Ses6_Rubiks.pdf">PDF</a>)</p>
+<p>Slides (<a href="MITES_268S10_ses6_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Probability topics and Monopoly</td>
+<td>Course notes (<a href="MITES_268S10_Ses7_Prob.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Games on graphs</td>
+<td>No course notes or slides available</td>
+</tr>
+<tr class="row">
+<td>Blackjack/poker-guest lecture</td>
+<td>Slides (<a href="MITES_268S10_ses9_slides.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Game of Life</td>
+<td>Slides (<a href="MITES_268S10_ses10_slides2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>NP-completeness</td>
+<td>Slides (<a href="MITES_268S10_ses11_slides.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constraint logic</td>
+<td>Slides&nbsp;<span class="nobr">(<a href="MITES_268S10_ses12_slides2.pdf">PDF - 2.6MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>
+<p>Dots and boxes</p>
+<p>Project presentations</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>"Amoeboid" (<a href="MITES_268S10_amoeba.pdf">PDF</a>) (Courtesy of Santigo Cuellar and Sebastien Dabdoub. Used with permission.)</p>
+<p>"Strategy of Risk" (<a href="MITES_268S10_Strat_of_Risk.pdf">PDF</a>) (Courtesy of an MIT student. Used with permission.)</p>
+<p>"4-D Rubik's Cube" (<a href="MITES_268S10_4Dcube.pdf">PDF</a>) (Courtesy of Marcel Thomas. Used with permission.)</p>
+</br>
