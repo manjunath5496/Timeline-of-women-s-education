@@ -5,7 +5,7 @@
 <li><a href="#course4">Gender Issues in Academics and Academia</a></li>
 <li><a href="#course5">Physics of Rock Climbing</a></li>
 <li><a href="#course6">The Coming Years</a></li>
-<li><a href="#course7">Aerodynamics</a></li>
+<li><a href="#course7">Information and Communication Technology in Africa</a></li>
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
 <li><a href="#course10">Structural Mechanics </a></li>
@@ -278,4 +278,31 @@
 </tbody>
 </table>
 </br>
+<h2 id="course7">Information and Communication Technology in Africa</h2>
+<h2 class="subhead">Assignment 1 - Information and Communication Technology (ICT) Case Studies (<a href="MITES_259S06_Ass_one.pdf">PDF</a>)</h2>
+<p>"Voxiva" by Mark Scott&nbsp;(<a href="MITES_259S06_scott_1.pdf">PDF</a>)</p>
+<p>"Shree Kamdhenu Electronics Private Ltd." by Mustafa Dafalla&nbsp;(<a href="MITES_259S06_dafall_1.pdf">PDF</a>)</p>
+<p>"Grameenphone" by Harmeet Gill&nbsp;(<a href="MITES_259S06_gill_1.pdf">PDF</a>)</p>
+<p>"Vodacom Community Services" by Angelica Weiner&nbsp;(<a href="MITES_259S06_weiner_1.pdf">PDF</a>)</p>
+<h2 class="subhead">Assignment 2 - Project Proposal (<a href="MITES_259S06_Ass_two.pdf">PDF</a>)</h2>
+<p>"Nigeria's Need for ICT" by Timan Goshit (<a href="MITES_259S06_goshit.pdf">PDF</a>)</p>
+<p>"The Need for Sex Education for Women" by Ana Lorena Ramos Malt&eacute;s (<a href="MITES_259S06_maltes_2.pdf">PDF</a>)</p>
+<p>"Malaria Prevention" by Mustafa Dafalla (<a href="MITES_259S06_dafalla_2.pdf">PDF</a>)</p>
+<p>"A Partnership Between MIT and Computer Aid International" by Harmeet Gill (<a href="MITES_259S06_gill_2.pdf">PDF</a>)</p>
+<p>"ICT Solutions for Agriculture" by&nbsp;Saba Gul (<a href="MITES_259S06_gul_2.pdf">PDF</a>)</p>
+<p>"The Production and Distribution of Landmine and Unexploded Ordinance Awareness Software" by Mark Scott (<a href="MITES_259S06_scott_2.pdf">PDF</a>)</p>
+<h2 class="subhead">Final Project - Policy Document (<a href="MITES_259S06_policy.pdf">PDF</a>)</h2>
+<p>"Privatization for Development" by Valery Brobbey (<a href="MITES_259S06_Brobbery.pdf">PDF</a>)</p>
+<p>"Technology and Policy in Africa" by Timan Goshit (<a href="MITES_259S06_goshit1_3.pdf">PDF</a>)</p>
+<p>"ICT Solutions for Agriculture" by Saba Gul (<a href="MITES_259S06_gul_3.pdf">PDF</a>)</p>
+<p>"Policy for the Introduction of the $100 Laptop into Schools in Zambia" by Mark Scott (<a href="MITES_259S06_scott_3.pdf">PDF</a>)</p>
+<p>"Integrating ICT in Zambian High Schools" by Ashenafi Befekadu (<a href="MITES_259S06_Befekadu.pdf">PDF</a>)</p>
+<p>"Technology Initiatives to Aid Agricultural Productivity in Zambia" by Mustafa Dafalla (<a href="MITES_259S06_dafalla1_3.pdf">PDF</a>)</p>
+<p>"Policy for an increase in Internet usage in Zambia" by Harmeet Gill (<a href="MITES_259S06_gill_3.pdf">PDF</a>)</p>
+<p>"Women and ICT in Zambia" by Ana Lorena Ramos Malt&eacute;s (<a href="MITES_259S06_maltes_3.pdf">PDF</a>)</p>
+<p>"Improving Computer Literacy through Training Programs" by Angelica Weiner (<a href="MITES_259S06_weiner_3.pdf">PDF</a>)</p>
+
+</br>
+
+
 
