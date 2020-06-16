@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Chemistry of Sports</a></li>
 <li><a href="#course2">Science Writing and New Media</a></li>
-<li><a href="#course3">Unified Engineering I, II, III, & IV</a></li>
+<li><a href="#course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</a></li>
 <li><a href="#course4">Thermal Energy</a></li>
 <li><a href="#course5">Principles of Automatic Control</a></li>
 <li><a href="#course6">Dynamics</a></li>
@@ -108,3 +108,11 @@
 <li>Assignment tick list (<a href="MIT21W_732F10_ticklist.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
+<h2 id="course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</h2>
+
+<p>Based on their experiences in running the class, the instructors have also compiled guidelines for running interactive seminars of this type. (<a href="MITES_240S06_smnr_lead.pdf">PDF</a>)</p>
+<p>Here is Thuy-Tien Le's description of how she created her final project (<a href="MITES_240S06_blurb_for_ocw.pdf">PDF</a>). (Courtesy of Thuy-Tien Le.&nbsp; Used with permission.)</p>
+</br>
+
+
+
