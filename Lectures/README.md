@@ -8,7 +8,7 @@
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
-<li><a href="#course10">Structural Mechanics </a></li>
+<li><a href="#course10">Art of Color </a></li>
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
 <li><a href="#course13">Feedback Control Systems</a></li>
@@ -479,4 +479,79 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Art of Color</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">CLASS&nbsp;TOPICS</th>
+<th scope="col">PROJECT&nbsp;TOPICS</th>
+<th scope="col">PROJECT&nbsp;DESCRIPTIONS</th>
+<th scope="col">EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Interaction of Color</td>
+<td>Familiarization with Colors</td>
+<td>Organize the entire color-aid pack according to the value of the color progressing from the lightest colors to the darkest colors.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Historical Use of Color in the Arts</td>
+<td>Fully Saturated Color Squares<br /><br />Color Values<br /><br />Color Wheel</td>
+<td><em>Fully Saturated Color Squares</em><br /><br />Cut a 4-1/2" x 4-1/2" gray square. Cut a 3" x 3" white square (paper) and center it on the gray. Then cut a 1" x 1" red square and center that on the white paper. Repeat this but replace the white paper with black paper. Mount both pieces side by side on a 13" x 14" white coverstock. Now repeat this using a blue square and then a yellow square instead of the red square. You will have six projects mounted on three sheets.<br /><br /><em>Color Values</em><br /><br />The second exercise involves placing the same color square on three different color grounds. The grounds are chosen to have the same value, a darker value, and a lighter value as the color square. The color square should be 1" x 1" and the grounds 3" x 3". Center the square on the ground and mount all three projects side by side by side on a 13" x 14" white coverstock.<br /><br /><em>Color Wheel</em><br /><br />Make a color wheel using the fully saturated colors in your color-aid pack. Cut out the sizes using the color wheel template handed out in class. The wheel should be mounted on 11"x12" white coverstock paper.</td>
+<td>Color Wheel (<a href="color_wheel_ex.jpg">JPG</a>)</td>
+</tr>
+<tr class="row">
+<td>Visual Design and Unified Space</td>
+<td>Letters: Color Transparency and Unified Space</td>
+<td>Use 3 letters, each of a different primary color, to organize a figure-ground composition on 12" x 12" coverstock paper. The letters should overlap each other. One design goal is to activate the entire space, both figure and ground. A second design goal is to construct a contained space and a containing space. Concentrate on creating shape by applying shape. Pay attention to the scale. The third design goal is to use the overlapping areas of the letters to create the illusion of additive or subtractive colors by replacing the letter color with the appropriate color formed by the combining the colors of the overlapping areas. Whenever there is an overlapping space select a secondary color which corresponds to the correct mix of the primary colors. Carefully choose the value of the secondary color to give a sense of a three dimensional weave of the two letters.</td>
+<td>Letters: Color Transparency and Unified Space (<a href="unified_space.jpg">JPG</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Color Balance</td>
+<td>Color Balance</td>
+<td>Make a series of color balances on 12" x 12" coverstock paper using:<br /><br />- Five grays, 3" high of varying widths.<br />- Four grays and one color.<br />- Three grays and two colors.<br />- Two grays and three colors.<br />- One gray and four colors.<br />- Five colors.<br /><br />All gray and color selections are 4-1/2" high and the widths will vary according to the need to balance the color values. Each project should involve different choices of grays and colors. Do not juxtapose monochromatic colors.</td>
+<td>Color Balance (<a href="color_balance.jpg">JPG</a>)</td>
+</tr>
+<tr class="row">
+<td>Color as Expression</td>
+<td>Color as Expression</td>
+<td>In this project you will try to render internal emotional states and external physical concepts in color. These concepts are points of departure for your expression. It is sometimes possible to give expression to these states with as little as two or three colors. You may also choose to use as many as ten colors. The project involves the juxtaposition of colors one next to another. The idea is to use pure color and minimal form so we juxtapose the colors either horizontally or vertically. It may happen that your expression requires slanted use of color but remember we are not try to create representational forms for our ideas. This is a creative project where quantity and quality of color play a significant role related to your memory of color and the symbolic meaning of color. Keep in mind that we are always concerned with creating unified space. Thus you should incorporate the ideas of color balance into the project.<br /><br />You should select 3 physical concepts and 3 abstract concepts from this list of 20 physical concepts and 20 abstract concepts. You should use the full Color Aid paper. However the ultimate horizontal or vertical size of the project will depend on your choice of colors.<br /><br />Some abstract concepts include: anxiety, innocence, sadness, hope, silence, fear, rebellion, tragedy, gentleness, apathy, joy, religious transport, confinement, strength, violence, festivity, celebration, solitude, and nightmare.<br /><br />Some physical concepts include: height, tempest, spring, summer, fall, winter, twilight, ocean, dawn, desert, woods, murmur, marsh, flight, earth, night, heat, rain, dream.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Color as Impression</td>
+<td>Color Impression</td>
+<td>Choose one season; spring, summer, fall or winter. Select one hundred different colors which give the impression of that season. Cut from each color a 1 1/2 " x 1 1/2 " square. You may need more colors later on so if you selected 120 different colors you will find it easier to assemble the project.</td>
+<td>Color as Impression (<a href="color_as_imp.jpg">JPG</a>)</td>
+</tr>
+<tr class="row">
+<td>Searching for Tension: Color Squares</td>
+<td>Color Balance and Tension</td>
+<td>Construct two 8" x 8" squares which consists of ten smaller squares: 3 squares are 4" x 4"; 3 squares are 2" x 2"; and 4 squares are 1" x 1". The first square is constructed from 10 distinct gray values. Each square should be distinct yet all the squares must form a balanced unified space. The second square is constructed from 10 distinct color values Mount the project on 11"x12" white coverstock.</td>
+<td>Color Balance and Tension (<a href="bal_and_tension.jpg">JPG</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Warm-Cold Colors</td>
+<td>Warm and Cold Colors</td>
+<td>Choose a 100 different warm colors, and cold colors, and colors in between to render the passage from warm to cold or vice versa. Then juxtapose the 100 different colors in a square. The emotional content of the warm-cold relation is explored.</td>
+<td>Warm and Cold Colors (<a href="warmcold_colors.jpg">JPG</a>)<br /><br />A Color Square (<a href="image2.jpg">JPG</a>) (Courtesy of Thuy-Tien Le. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Midterm Project</td>
+<td>Collect color images in the following six categories:<br /><br />- Paintings<br />- Food<br />- Unusual Images<br />- Flowers<br />- Textiles<br />- Human Interactions.<br /><br />These images should stress the interaction of color. Avoid single color images or monochromatic images. Choose five images from each category. Mount those images on 14" x 13" coverstock.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Watercolor Paintings</td>
+<td>Cut matteboard and mount paintings.</td>
+<td>A Watercolor Painting by Dugan Hayes(<a href="image1.jpg">JPG</a>) (Courtesy of Dugan Hayes. Used with permission.)<br /><br />A Watercolor Painting&nbsp;by Jess Sundberg (<a href="image5.jpg">JPG</a>) (Courtesy of Jess Sundberg. Used with permission.)<br /><br />A Watercolor Painting&nbsp;by George Lin (<a href="image6.jpg">JPG</a>) (Courtesy of George Lin. Used with permission.)<br /><br />A Watercolor Painting by Prof. Peter Dourmashkin (<a href="image9.jpg">JPG</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
