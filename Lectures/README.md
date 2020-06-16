@@ -10,46 +10,7 @@
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
 <li><a href="#course10">Art of Color </a></li>
 <li><a href="#course11">Drugs and the Brain</a></li>
-<li><a href="#course12">Computational Mechanics of Materials</a></li>
-<li><a href="#course13">Feedback Control Systems</a></li>
- <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
-<li><a href="#course15">Stochastic Estimation and Control</a></li> 
- <li><a href="#course16">Principles of Optimal Control</a></li>  
-   <li><a href="#course17">Aircraft Stability and Control</a></li> 
-  <li><a href="#course18">Dynamics of Nonlinear Systems</a></li> 
-<li><a href="#course19">Astrodynamics</a></li>
- <li><a href="#course20">Software Engineering Concepts</a></li>
-<li><a href="#course21">Communication Systems Engineering</a></li> 
- <li><a href="#course22">Data Communication Networks</a></li>  
-   <li><a href="#course23">Infinite Random Matrix Theory</a></li> 
-  <li><a href="#course24">Random Matrix Theory and Its Applications</a></li>
-  <li><a href="#course25">Human Factors Engineering</a></li>
-<li><a href="#course26">Introduction to Propulsion Systems</a></li> 
- <li><a href="#course27">Rocket Propulsion</a></li>  
-   <li><a href="#course28">Space Propulsion</a></li> 
-  <li><a href="#course29">Internal Flows in Turbomachines</a></li> 
-   <li><a href="#course30">Ionized Gases</a></li>
-<li><a href="#course31">Experimental Projects I</a></li> 
- <li><a href="#course32">Experimental Projects II</a></li>  
-   <li><a href="#course33">System Safety</a></li> 
-  <li><a href="#course34">Introduction to Lean Six Sigma Methods</a></li> 
-  <li><a href="#course35">Technology in Transportation</a></li>  
-   <li><a href="#course36">Prototyping Avionics</a></li> 
-  <li><a href="#course37">Private Pilot Ground School</a></li> 
-   <li><a href="#course38">Air Traffic Control</a></li> 
-   <li><a href="#course39">Airline Management</a></li> 
-  <li><a href="#course40">Engineering Design and Rapid Prototyping</a></li> 
-   <li><a href="#course41">The Aerospace Industry</a></li> 
-   <li><a href="#course42">Space Systems Engineering</a></li> 
-   <li><a href="#course43">Fundamentals of Systems Engineering</a></li> 
-   <li><a href="#course44">Integrating the Lean Enterprise</a></li> 
-   <li><a href="#course45">Satellite Engineering</a></li> 
-   <li><a href="#course46">Robust System Design</a></li> 
-   <li><a href="#course47">Air Transportation Systems Architecting</a></li> 
- <li><a href="#course48">Space System Architecture and Design</a></li> 
-   <li><a href="#course49">Computational Methods in Aerospace Engineering</a></li> 
-   <li><a href="#course50">Numerical Methods for Partial Differential Equations</a></li> 
-   <li><a href="#course51">Bio-Inspired Structures</a></li> 
+
 
 </ul>
 <p>&nbsp;</p>
