@@ -7,7 +7,7 @@
 <li><a href="#course6">The Coming Years</a></li>
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
-<li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
+<li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
 <li><a href="#course10">Structural Mechanics </a></li>
 <li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
@@ -393,3 +393,90 @@
 <p>"Strategy of Risk" (<a href="MITES_268S10_Strat_of_Risk.pdf">PDF</a>) (Courtesy of an MIT student. Used with permission.)</p>
 <p>"4-D Rubik's Cube" (<a href="MITES_268S10_4Dcube.pdf">PDF</a>) (Courtesy of Marcel Thomas. Used with permission.)</p>
 </br>
+<h2 id="course9">Passing: Flexibility in Race and Gender</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE NOTES</th>
+<th scope="col">READINGS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Racial passing (<a href="MITES_269S09_lec1_Class1.pdf">PDF</a>) (Courtesy of Rachel Dillon.)</td>
+<td>&nbsp;Craft, William, and Ellen Craft.&nbsp;<em>Running a Thousand Miles for Freedom</em>. Atlanta, GA: University of Georgia Press, 1999. ISBN: 9780820321042. [<a href="http://docsouth.unc.edu/neh/craft/craft.html">Read</a>&nbsp;the book online]</td>
+</tr>
+<tr class="alt-row">
+<td>Interplay between race, gender, class, and literacy</td>
+<td>Continue with&nbsp;<em>Running a Thousand Miles for Freedom</em>.</td>
+</tr>
+<tr class="row">
+<td>Interplay between race, gender, class, and literacy (cont.) (<a href="MITES_269S09_lec3_Class3.pdf">PDF</a>)</td>
+<td>
+<p>Continue with&nbsp;<em>Running a Thousand Miles for Freedom.</em></p>
+<p>Taylor, Edward. "A Primer on Critical Race Theory."&nbsp;<em>The Journal of Blacks in Higher Education</em>&nbsp;19 (1998): 122-124.</p>
+<p>McCaskill, Barbara. "<a href="http://findarticles.com/p/articles/mi_m2838/is_n4_v28/ai_16836581/">Yours Very Truly: Ellen Craft-The Fugitive as Text and Artifact</a>."&nbsp;<em>African American Review</em>&nbsp;(Winter 1994).</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Discussion about&nbsp;<em>Incognegro</em>&nbsp;(<a href="MITES_269S09_lec4_Class4.pdf">PDF</a>)</p>
+<p>Special Guest:&nbsp;<a href="http://en.wikipedia.org/wiki/Zanele_Muholi">Zanele Muholi</a></p>
+</td>
+<td>Johnson, Mat, and Warren Pierce.&nbsp;<em>Incognegro</em>. New York, NY: Vertigo, 2008. ISBN: 9781401210977.</td>
+</tr>
+<tr class="row">
+<td>Gender theory (<a href="MITES_269S09_lec5_Class5.pdf">PDF</a>)</td>
+<td>
+<p>&nbsp;Foucault, Michel.&nbsp;<em>The History of Sexuality, Volume 1: An Introduction</em>. New York, NY: Vintage Press, 1990. ISBN: 9780679724698.</p>
+<p>Hackney, James R., Jr. "<a href="http://www.jstor.org/pss/828765">Review: Derrick Bell's Re-Sounding: W.E.B. DuBois, Modernism, and Critical Race Scholarship</a>."&nbsp;<em>Law and Social Inquiry</em>&nbsp;23, no. 1 (1998): 141-164.</p>
+<p>Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory." (1988). (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://seas3.elte.hu/coursematerial/TimarAndrea/17a.Butler,performative%5B1%5D.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Transgender issues (<a href="MITES_269S09_lec6_Class6.pdf">PDF</a>)</td>
+<td>&nbsp;Raymond, Janice.&nbsp;<em>The Transsexual Empire: The Making of the She-Male</em>. New York, NY: Teachers College Press, 1994. ISBN: 9780807762721.</td>
+</tr>
+<tr class="row">
+<td>Nella Larsen's&nbsp;<em>Passing</em>&nbsp;(<a href="MITES_269S09_lec7_Class7.pdf">PDF</a>)</td>
+<td>&nbsp;Larsen, Nella.&nbsp;<em>Passing</em>. New York, NY: W.W. Norton &amp; Co., 2007. ISBN: 9780393979169. [<a href="http://books.google.com/books?id=eGtk2HVLYoMC&amp;pg=PAfrontcover">Preview</a>&nbsp;in Google Books]</td>
+</tr>
+<tr class="alt-row">
+<td>Doris Grumbach's&nbsp;<em>Chamber Music</em></td>
+<td>&nbsp;Grumbach, Doris.&nbsp;<em>Chamber Music</em>. Wainscott, New York, NY: Pushcart Press, 2008. ISBN: 9781888889536.</td>
+</tr>
+<tr class="row">
+<td>
+<p>Transsexuality and the medical community (<a href="MITES_269S09_lec9_Class9.pdf">PDF</a>)</p>
+<p>(Courtesy of Rachel Dillon.)</p>
+</td>
+<td>
+<p>&nbsp;Serano, Julia.&nbsp;<em>Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity</em>. Berkeley, CA: Seal Press, 2007. ISBN: 9781580051545. pp. 23-64.</p>
+<p>&nbsp;Prosser, Jay.&nbsp;<em>Second Skins</em>. New York, NY: Columbia University Press, 1998.&nbsp;ISBN: 9780231109345. Chapter 2.</p>
+<p>&nbsp;Califia, Patrick. "Transsexual Autobiography." In&nbsp;<em>Sex Changes: Transgender Politics</em>. San Francisco, CA: Cleis Press, 2003. ISBN: 9781573441805.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Essays from&nbsp;<em>Nobody Passes</em>&nbsp;(<a href="MITES_269S09_lec10_Class10.pdf">PDF</a>)</td>
+<td>&nbsp;Sycamore, Matt Bernstein.&nbsp;<em>Nobody Passes: Rejecting the Rules of Gender and Conformity</em>. Berkeley, CA: Seal Press, 2006. ISBN: 9781580051842.</td>
+</tr>
+<tr class="row">
+<td><em>Nobody Passes</em>&nbsp;(cont.) (<a href="MITES_269S09_lec11_Class11.pdf">PDF</a>)</td>
+<td>Comeau, Joey.&nbsp;<a href="http://cargocollective.com/joeycomeau/Lockpick-Pornography"><em>Lockpick Pornography</em></a>. Vancouver, BC: Loose Teeth Press, 2008.</td>
+</tr>
+<tr class="alt-row">
+<td><em>Nobody Passes</em>&nbsp;(cont.) (<a href="MITES_269S09_lec12_Class12.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Student presentations</p>
+<p>(See Projects section)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
