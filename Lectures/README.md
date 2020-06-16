@@ -3,7 +3,7 @@
 <li><a href="#course2">Science Writing and New Media</a></li>
 <li><a href="#course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</a></li>
 <li><a href="#course4">Gender Issues in Academics and Academia</a></li>
-<li><a href="#course5">Principles of Automatic Control</a></li>
+<li><a href="#course5">Physics of Rock Climbing</a></li>
 <li><a href="#course6">Dynamics</a></li>
 <li><a href="#course7">Aerodynamics</a></li>
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
@@ -168,4 +168,45 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course5">Physics of Rock Climbing</h2>
+
+<table>
+<thead>
+<tr>
+<th scope="col">SUMMARY</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction<br /><br />Discussion: Might the natural frequencies of karabiner gates and ropes match under certain circumstances that would cause the karabiner gate to be open during fall arrest?</td>
+<td>Summary of In-class Derivation (<a href="MITES_255S06_rpe_osillmdel.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Open Questions in Rock Climbing</td>
+<td>Presentation (<a href="MITES_255S06_oqs_pres.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Discussion of karabiner-rope Coupling</td>
+<td>Summary of Discussion (<a href="MITES_255S06_class_3review.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Rope Behavior</td>
+<td>Presentation (<a href="MITES_255S06_rope_behav.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Three student projects defined:<br /><br />- Measurement of karabiner gate opening due to oscillation, both in-vitro (say glued to a speaker cone) and in-vivo (in a drop test).<br />- Modeling of the frequency matching between rope and karabiner gate oscillation.<br />- Rope middle marking.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Measured the frequency of rope oscillation.<br /><br />Measured the spring constant of a karabiner and came up with an estimate for the oscillation frequency of the gate (~25 Hz).<br /><br />Marked nylon and tried to see if any changes were observable under a light microscope ~100x magnification. No changes were readily apparent.</td>
+<td>Rope Oscillation Experiment (<a href="MITES_255S06_rope_oscil.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li class="maintabletemplate">&nbsp;A model of the propensity for a karabiner gate to open due to transverse oscillation of the rope during fall arrest. (<a href="MITES_255S06_analmdropkarys.pdf">PDF</a>) (Courtesy of Philippe Bertreau and Christopher Pipe. Used with permission.)</li>
+</ul>
 </br>
