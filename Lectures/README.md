@@ -9,7 +9,7 @@
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
 <li><a href="#course10">Art of Color </a></li>
-<li><a href="#course11">Techniques for Structural Analysis and Design</a></li>
+<li><a href="#course11">Drugs and the Brain</a></li>
 <li><a href="#course12">Computational Mechanics of Materials</a></li>
 <li><a href="#course13">Feedback Control Systems</a></li>
  <li><a href="#course14">Estimation and Control of Aerospace Systems</a></li>
@@ -555,3 +555,88 @@
 </table>
 
 </br>
+<h2 id="course11">Drugs and the Brain</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Teaser</td>
+<td>
+<p><a href="MITES_S10S13_Teaser.pptx">Drugs and the Brain teaser (PPT)</a></p>
+<p><a href="MITES_S10S13_Teaser.pdf">Drugs and the Brain teaser (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction</td>
+<td>
+<p><a href="MITES_S10S13_Week1.pptx">Week 1 lecture slides (PPT)</a></p>
+<p><a href="MITES_S10S13_Week1.pdf">Week 1 lecture slides (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Drug Mechanisms, Explained with Antidepressants</td>
+<td>
+<p><a href="MITES_S10S13_Week2.pptx">Week 2 lecture slides (PPT)</a></p>
+<p><a href="MITES_S10S13_Week2.pdf">Week 2 lecture slides (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Pharmacokinetics</td>
+<td><a href="MITES_S10S13_Week3.pdf">Week 3 lecture slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Drug Addiction, Dopamine, and Liking vs. Wanting</td>
+<td><a href="MITES_S10S13_Week4.pdf">Week 4 lecture slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Action Potentials, Alcohol, and Shock Therapies</td>
+<td><a href="MITES_S10S13_Week5.pdf">Week 5 lecture slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Alcohol Antagonists</td>
+<td>
+<p><a href="MITES_S10S13_Week6.pptx">Week 6 lecture slides (PPT)</a></p>
+<p><a href="MITES_S10S13_Week6.pdf">Week 6 lecture slides (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Dose-Response Curves</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Anxiety and Sedatives</td>
+<td><a href="MITES_S10S13_Week8.pdf">Week 8 lecture slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Psychosis, Antipsychotics, and Parkinson's Disease</td>
+<td><a href="MITES_S10S13_Week9.pdf">Week 9 lecture slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Two Dichotomies</td>
+<td><a href="MITES_S10S13_Week10.pdf">Week 10 lecture slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Recreational Drugs</td>
+<td>
+<p><a href="MITES_S10S13_Week11.pdf">Week 11 lecture slides (PDF)</a></p>
+<p><a href="http://ocw.mit.edu/ans7870/ES/ES.S10/S13/studymaterials/drugchart.htm">Recreational Drugs and Neurotransmitters Chart</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Appetite and Nausea, Syringes</td>
+<td><a href="MITES_S10S13_Week12.pdf">Week 12 lecture slides (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="MITES_S10S13_quiz1.pdf">Antidepressant Mechanisms (PDF)</a></p>
+<p><a href="MITES_S10S13_quiz2.pdf">Drug Chart Quiz (PDF)</a></p>
+<p><a href="MITES_S10S13_quiz2sol.pdf">Drug Chart Quiz&nbsp;&mdash; Answer Key (PDF)</a></p>
+</br>
+
