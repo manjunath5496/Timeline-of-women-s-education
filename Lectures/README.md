@@ -4,7 +4,7 @@
 <li><a href="#course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</a></li>
 <li><a href="#course4">Gender Issues in Academics and Academia</a></li>
 <li><a href="#course5">Physics of Rock Climbing</a></li>
-<li><a href="#course6">Dynamics</a></li>
+<li><a href="#course6">The Coming Years</a></li>
 <li><a href="#course7">Aerodynamics</a></li>
 <li><a href="#course8">Analytical Subsonic Aerodynamics</a></li>
 <li><a href="#course9">Aerodynamics of Viscous Fluids</a></li>
@@ -210,3 +210,72 @@
 <li class="maintabletemplate">&nbsp;A model of the propensity for a karabiner gate to open due to transverse oscillation of the rope during fall arrest. (<a href="MITES_255S06_analmdropkarys.pdf">PDF</a>) (Courtesy of Philippe Bertreau and Christopher Pipe. Used with permission.)</li>
 </ul>
 </br>
+<h2 id="course6">The Coming Years</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>The recent past and the near future</td>
+<td>(<a href="MITES_256S08_Lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Techniques in futurology</td>
+<td>(<a href="MITES_256S08_Lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Historigraphic theories: class struggle, cycles, and paradigm shifts<br /><br />Reading Questions (<a href="MITES_256S08_assn03.pdf">PDF</a>)</td>
+<td>(<a href="MITES_256S08_Lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Catastrophic change, power laws, and fractals</td>
+<td>(<a href="MITES_256S08_Lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Disasters and collapses: nuclear war, global warming, peak oil, bioterrorism</td>
+<td>(<a href="MITES_256S08_Lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The singularity</td>
+<td>(<a href="MITES_256S08_Lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>World changing, revelations, and revolutions</td>
+<td>(<a href="MITES_256S08_Lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Future politics</td>
+<td>(<a href="MITES_256S08_Lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Society in motion</td>
+<td>(<a href="MITES_256S08_Lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Science and technology</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Economics and demographics<br /><br />Reading Questions (<a href="MITES_256S08_assn11.pdf">PDF</a>)</td>
+<td>(<a href="MITES_256S08_Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Describing the future</td>
+<td>(<a href="MITES_256S08_Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Memetics</td>
+<td>(<a href="MITES_256S08_Lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final project presentations</td>
+<td>(<a href="MITES_256S08_Lec14.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
