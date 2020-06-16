@@ -2,7 +2,7 @@
 <li><a href="#course1">Chemistry of Sports</a></li>
 <li><a href="#course2">Science Writing and New Media</a></li>
 <li><a href="#course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</a></li>
-<li><a href="#course4">Thermal Energy</a></li>
+<li><a href="#course4">Gender Issues in Academics and Academia</a></li>
 <li><a href="#course5">Principles of Automatic Control</a></li>
 <li><a href="#course6">Dynamics</a></li>
 <li><a href="#course7">Aerodynamics</a></li>
@@ -114,5 +114,58 @@
 <p>Here is Thuy-Tien Le's description of how she created her final project (<a href="MITES_240S06_blurb_for_ocw.pdf">PDF</a>). (Courtesy of Thuy-Tien Le.&nbsp; Used with permission.)</p>
 </br>
 
-
-
+<h2 id="course4">Gender Issues in Academics and Academia</h2>
+<p>All Lecture Notes in One File (<a href="MITES_242S04_lecs.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction; History of Gender in Education (<a href="MITES_242S04_ses1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Boys' Educational Issues (<a href="MITES_242S04_ses2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Course-Taking Patterns; Sex Education (<a href="MITES_242S04_ses3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Title IX (<a href="MITES_242S04_ses4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Standardized Tests (<a href="MITES_242S04_ses5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Single-Sex Schooling (<a href="MITES_242S04_ses6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Classroom Dynamics (<a href="MITES_242S04_ses7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Feminine Mystique (<a href="MITES_242S04_ses8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Women's Studies (<a href="MITES_242S04_ses9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>ESL Studies and Cross-Cultural Issues (<a href="MITES_242S04_ses10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>MIT's Journey Towards Diversity (<a href="MITES_242S04_ses11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Opting Out (<a href="MITES_242S04_ses12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gay, Lesbian, Bisexual, and Transgendered Experiences (<a href="MITES_242S04_ses13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Summary and Conclusions (<a href="MITES_242S04_ses14.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
